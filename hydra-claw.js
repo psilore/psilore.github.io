@@ -152,7 +152,7 @@ template.innerHTML = `
     border-width: 1px;
     padding: 0;
   }
-  @media only screen and (max-width: 736px) {
+  @media only screen and (max-width: 823px) {
     #area {
       display: block;
     }
